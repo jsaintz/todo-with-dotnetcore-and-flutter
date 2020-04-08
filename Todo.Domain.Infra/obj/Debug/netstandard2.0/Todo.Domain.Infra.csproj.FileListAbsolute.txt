@@ -1,0 +1,9 @@
+E:\projects\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.deps.json
+E:\projects\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.dll
+E:\projects\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.pdb
+E:\projects\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.csprojAssemblyReference.cache
+E:\projects\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.csproj.CoreCompileInputs.cache
+E:\projects\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.AssemblyInfoInputs.cache
+E:\projects\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.AssemblyInfo.cs
+E:\projects\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.dll
+E:\projects\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.pdb
